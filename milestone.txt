@@ -1,8 +1,9 @@
 Final Project Milestone
 ==============================
 
-Project Title: <TODO>
-Your Name: <TODO>
+Project Title: Todo-Liste
+Your Name: Heidi Klade
+
 
 Overview
 --------

@@ -1,8 +1,8 @@
 {
-  "name": "@webprog/project",
+  "name": "@webprog/todo-liste",
   "version": "2025.spr",
-  "author": "Your Name <your@email>",
-  "description": "Webprog Final Project",
+  "author": "Heidi Klade <hklade@gmx.at>",
+  "description": "Todo-Liste",
   "license": "UNLICENSED",
   "private": true,
   "type": "module",
